@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="https://github.com" />/
+<project path="kernel/samsung/s3ve3g" name="S3NEO/android_kernel_samsung_s3ve3g" remote="github" revision="lineage-15.1" />
+<project path="device/samsung/msm8226-common" name="S3NEO/android_device_samsung_msm8226-common" remote="github" revision="lineage-15.1" />
+<project path="device/samsung/s3ve3g" name="S3NEO/android_device_samsung_s3ve3g" remote="github" revision="lineage-15.1" />
+<project path="vendor/samsung/s3ve3g" name="S3NEO/android_vendor_samsung_s3ve3g" remote="github" revision="lineage-15.1" />
+<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="lineage-15.1"/>
+<project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" remote="github" revision="lineage-15.1" />
+<project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="lineage-15.1" />
+<project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="lineage-15.1" />
+<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-15.1" />
+<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.1" />
+</manifest>
