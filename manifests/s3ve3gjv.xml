@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="S3NEO/android_device_samsung_s3ve3gjv" path="device/samsung/s3ve3gjv" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_vendor_samsung_s3ve3gjv" path="vendor/samsung/s3ve3gjv" remote="github" revision="lineage-17.1" />
+</manifest>
