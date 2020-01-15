@@ -25,6 +25,9 @@ echo ""
 echo -n "manifest changer> $HOME/"
 read androidsource
 if [ -d "$HOME/$androidsource" ]; then
+androidsource="$HOME/$androidsource"
+echo "Creating folder..."
+mkdir $androidsource/.repo/local_manifests
 echo "Putting manifest..."
 cp $SCRIPTDIR/manifests/main.xml $androidsource/.repo/local_manifests/s3ve3g_main.xml
 cp $SCRIPTDIR/manifests/s3ve3g$revision.xml $androidsource/.repo/local_manifests/s3ve3g$revision.xml
