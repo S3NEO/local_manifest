@@ -59,7 +59,7 @@ getdeviceman() {
 }
 
 menu() {
-    echo -e $y"Welcome! Choose device number to use local manifest from:"$nc
+    echo -e $y"Welcome! Choose device number to use local manifest from (Android 11):"$nc
     echo -e $y"$(printdevicelist)"$nc
     echo -ne $cyan"choose manifest> "
     read userChoice
