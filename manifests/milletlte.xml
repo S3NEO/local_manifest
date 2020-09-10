@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="S3NEO/android_device_samsung_milletlte" path="device/samsung/milletlte" remote="github" revision="lineage-17.1" />
-  <project name="S3NEO/android_vendor_samsung_milletlte" path="vendor/samsung/milletlte" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_device_samsung_milletlte" path="device/samsung/milletlte" remote="github" revision="lineage-18.0" />
+  <project name="S3NEO/android_vendor_samsung_milletlte" path="vendor/samsung/milletlte" remote="github" revision="lineage-18.0" />
 </manifest>
